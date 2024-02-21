@@ -5,7 +5,7 @@
 Projeto site de ecommerce nome/marca Kumo.
 Esse projeto foi desenvolvido junto ao tutorial online de Saidul.dev.
 
-> Acesse em: [Ecommerce Kumo](https://projeto-manhattan-coffe.vercel.app/ "Projeto Ecommerce Kumo")
+> Acesse em: [Ecommerce Kumo](https://jhonatan-777.github.io/projeto-kumo/ "Projeto Ecommerce Kumo")
 
 Nele criamos a página de um site de ecommerce. O site é composto por uma pagina principal, com informações sobre os produtos a vender e reviews:
 
