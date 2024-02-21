@@ -34,6 +34,6 @@ Dessa forma foi colocado em prática os seguintes conceitos:
 
 > Projeto desenvolvido por: [Jhonatan.](https://github.com/Jhonatan-777/ "Github Jhonatan Silva")
 
-> Desing feito por: [saidul_islamz](https://www.instagram.com/saidul_islamz/ "Instagram Saidul Islam")
+> Desing feito por: [Saidul Islam](https://www.instagram.com/saidul_islamz/ "Instagram Saidul Islam")
 
 ---
