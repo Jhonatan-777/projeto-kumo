@@ -1,0 +1,12 @@
+/* global css */
+@import "./global/global.css";
+
+/* components css */
+@import "./components/header/header.css";
+@import "./components/footer/footer.css";
+
+/* secoes css */
+@import "./secoes/secaoBanner/secaoBanner.css";
+@import "./secoes/secaoTrending/secaoTrending.css";
+@import "./secoes/secaoClient/secaoClient.css";
+@import "./secoes/secaoUpdateNews/secaoUpdateNews.css";
