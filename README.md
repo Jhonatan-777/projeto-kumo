@@ -11,13 +11,13 @@ Nele criamos a página de um site de ecommerce. O site é composto por uma pagin
 
 > ### Página Principal (Home):
 
-![imagem-site-manhattan](https://github.com/Jhonatan-777/projeto-manhattan-coffe/assets/155544904/89cc8b49-62a8-4d45-b347-796db1f7d1d3)
+![imagem-kumo 2](https://github.com/Jhonatan-777/projeto-kumo/assets/155544904/ddbc8eff-b153-4bc2-aa1d-9c24fbf0af5e)
 
 ---
 
 > ### Página responsiva:
 
-![imagem-site-manhattan-responsivo](https://github.com/Jhonatan-777/projeto-manhattan-coffe/assets/155544904/20089111-8c9f-469f-ac37-9565679ab076)
+![imagem-kumo-responsive 2](https://github.com/Jhonatan-777/projeto-kumo/assets/155544904/c93cf6ab-8c12-4ebf-8cf8-62ce4fbcf6ef)
 
 ---
 
